@@ -1,8 +1,5 @@
 # github-wiki
-Managing a wiki on github like [this](https://help.github.com/en/github/building-a-strong-community/adding-or-editing-wiki-pages)
-
-# rules
-- Don't use the following characters in your wiki page's titles: `\ / : * ? " < > |`
+Managing a wiki on github like [this](https://help.github.com/en/github/building-a-strong-community/adding-or-editing-wiki-pages). The main motivation here is to compare against confluence lack of offline support. Github wikis seem to be just ordinary files that can be cloned and grepped.
 
 # usage
 ```bash
